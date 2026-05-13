@@ -1,0 +1,59 @@
+[
+  {
+    "blocks": [
+      {
+        "type": "heading_1",
+        "heading_1": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Stories"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "heading_2",
+        "heading_2": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Anthropic scales Claude via a SpaceX compute deal, then raises usage limits for paying users"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Anthropic says a partnership with SpaceX expands compute capacity enough to double Claude Code limits and raise Opus API caps."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "heading_1",
+        "heading_1": {
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Analysis Summary"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "citations": []
+  }
+]

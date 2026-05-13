@@ -1,0 +1,6 @@
+{
+  "model": "claude-opus-4-5-20251101",
+  "api_url": "https://api.anthropic.com",
+  "max_tokens": 16384,
+  "credential_reference": "ANTHROPIC_API_KEY (secret value not included)"
+}
