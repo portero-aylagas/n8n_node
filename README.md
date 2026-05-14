@@ -29,6 +29,14 @@ This repository contains the n8n Node Study Guide Lab deliverables.
    - HTTP Request
    - Append row in sheet node present but disabled in the exported workflow
 
-## Privacy and credentials
+## Screenshots
+Trello board showing both demo cards:
+![Trello board showing both demo cards](documents/assets/trello/trello-board.png)
+n8n screenshot showing Agentic flow overview:
+![n8n screenshot showing Agentic flow overview](screenshots/01-ai-agent-workflow-overview.png)
+![n8n screenshot showing class workflow overview with Notion](screenshots/02-example-class-workflow-overview.png)
+Notion screenshot showing result of news inserted in a page:
+![Notion screenshot showing result of news inserted in a page](screenshots/03-notion-page-result.png)
 
+## Privacy and credentials
 Credential names may appear in exported workflow JSON because n8n includes credential references. Secret values, API keys, and tokens are not included in the example JSON files.
